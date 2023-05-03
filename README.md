@@ -1,0 +1,1 @@
+This is a small automation project that I've created during the Selenium WebDriver course in Python using POM pattern
